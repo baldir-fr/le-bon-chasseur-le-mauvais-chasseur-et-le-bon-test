@@ -13,6 +13,12 @@
   "customizations" : {
     "jetbrains" : {
       "backend" : "Rider"
+    },
+    "vscode": {
+        "extensions": [
+            "github.vscode-github-actions",
+            "ritwickdey.LiveServer"
+        ]
     }
   },
 
