@@ -17,7 +17,8 @@
     "vscode": {
         "extensions": [
             "github.vscode-github-actions",
-            "ritwickdey.LiveServer"
+            "ritwickdey.LiveServer",
+            "ms-dotnettools.csdevkit"
         ]
     }
   },
